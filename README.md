@@ -56,3 +56,7 @@ All practical testing described here is limited to intentionally vulnerable labs
 
 ---
 *Personal cybersecurity learning notes by MrNullbyte01.*
+
+## Existing documents
+
+Six existing PDFs have been imported into [`writeups/`](writeups/). They cover ARP, Bandit CTF, network services, Linux fundamentals, and networking. See the [Write-up and Study Notes Index](docs/writeup-index.md) for the full list and classification. Some are technical study reports rather than CTF walkthroughs.
