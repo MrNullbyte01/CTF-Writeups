@@ -21,6 +21,10 @@ The learning portfolio includes work on the TryHackMe rooms:
 
 A room being completed is a learning milestone; it should not be described as a professional penetration test or real-world engagement.
 
+## Write-up template
+
+- [CTF write-up template](docs/ctf-writeup-template.md)
+
 ## Write-up format
 
 Each write-up should contain:
